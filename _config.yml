@@ -1,5 +1,5 @@
 title: Malte C. Rühlemann
 description: Scientist at IKMB Kiel, Germany.
-show_downloads: true
-google_analytics:
+show_downloads: false
+google_analytics: UA-113314201-1
 theme: jekyll-theme-minimal
