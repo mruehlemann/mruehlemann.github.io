@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a trained [molecular biologist](http://www.medlife.uni-kiel.de/en?set_language=en) turned to data analysis in the final phase of my PhD. My supervisor is 
+I am a trained [molecular biologist](http://www.medlife.uni-kiel.de/en?set_language=en) who turned to data analysis and in the final phase of my PhD. My supervisor is 
 [Prof. Dr. Andre Franke](http://www.ikmb.uni-kiel.de/research/genetics-bioinformatics) at the [Institue of Clinical Molecular Biology](http://www.ikmb.uni-kiel.de).
 We are located at the [Center of Molecular Biosciences](http://www.zmb.uni-kiel.de) in Kiel
 
