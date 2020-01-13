@@ -8,7 +8,7 @@ We are located at the [Center of Molecular Biosciences](http://www.zmb.uni-kiel.
 
 ### [](#RI)Reasearch Interest
 
-My PhD project is part of the [Collaborative Research Center 1182 - Origin and Function of Metagenomes](http://www.metagenome-research.com).
+My PhD project is part of the [Collaborative Research Center 1182 - Origin and Function of Metagenomes](http://www.metaorganism-research.com).
 
 I am generally focussing on the factors that shape the human intestinal microbiota, I am investigating effects of chronic disease, genetics, evolution and environmental factors.
 
