@@ -2,13 +2,13 @@
 layout: default
 ---
 
-I am a trained [molecular biologist](http://www.medlife.uni-kiel.de/en?set_language=en) turned to data analyst and in the final phase of my PhD. My supervisor is 
+I am a trained [molecular biologist](http://www.medlife.uni-kiel.de/en?set_language=en) turned to data analyst. I'm working in the lab of
 [Prof. Dr. Andre Franke](http://www.ikmb.uni-kiel.de/research/genetics-bioinformatics) at the [Institue of Clinical Molecular Biology](http://www.ikmb.uni-kiel.de).
 We are located at the [Center of Molecular Biosciences](http://www.zmb.uni-kiel.de) in Kiel.
 
 ### [](#RI)Reasearch Interest
 
-My PhD project is part of the [Collaborative Research Center 1182 - Origin and Function of Metagenomes](http://www.metaorganism-research.com).
+I am a PostDoc in the [Collaborative Research Center 1182 - Origin and Function of Metagenomes](http://www.metaorganism-research.com).
 
 I am generally focussing on the factors that shape the human intestinal microbiota, I am investigating effects of chronic disease, genetics, evolution and environmental factors.
 
