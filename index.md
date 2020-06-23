@@ -8,7 +8,7 @@ We are located at the [Center of Molecular Biosciences](http://www.zmb.uni-kiel.
 
 ### [](#RI)Reasearch Interest
 
-I am a PostDoc in the [Collaborative Research Center 1182 - Origin and Function of Metagenomes](http://www.metaorganism-research.com).
+I am a PostDoc and elected junior representative in the steering commitee of the [Collaborative Research Center 1182 - Origin and Function of Metagenomes](http://www.metaorganism-research.com).
 
 I am generally focussing on the factors that shape the human intestinal microbiota, I am investigating effects of chronic disease, genetics, evolution and environmental factors.
 
