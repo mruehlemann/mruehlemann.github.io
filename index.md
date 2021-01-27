@@ -16,6 +16,8 @@ I have given courses and workshops on different aspects of microbiome analysis [
 
 ### [](#SP)Selected Publications
 
+* _Genome-wide association study in 8,956 German individuals identifies influence of ABO histo-blood groups on gut microbiome_ - **Rühlemann** _et al._, Nature Genetics (2021). [Full Text](https://www.nature.com/articles/s41588-020-00747-1)
+
 * _Consistent Alterations in Faecal Microbiomes of Patients With Primary Sclerosing Cholangitis Independent of Associated Colitis_ - **Rühlemann** _et al._, AP&T (2019). [Full Text](https://pubmed.ncbi.nlm.nih.gov/31250469/)
 
 * _Gut mycobiome of primary sclerosing cholangitis patients is characterised by an increase of Trichocladium griseum and Candida species_ - **Rühlemann** _et al._, Gut (2019). [Full Text](https://gut.bmj.com/content/early/2019/10/25/gutjnl-2019-320008)
@@ -24,14 +26,28 @@ I have given courses and workshops on different aspects of microbiome analysis [
 
 * _Obese Individuals with and without Type 2 Diabetes Show Different Gut Microbial Functional Capacity and Composition_ - Thingholm, **Rühlemann** _et al._, Cell Host & Microbe (2019). [Full Text](https://www.sciencedirect.com/science/article/abs/pii/S1931312819303488)
 
-*	_Application of the distance-based F test in an mGWAS investigating beta diversity of intestinal microbiota identifies variants in SLC9A8 (NHE8) and three other loci_ - **Rühlemann** _et al._, Gut Microbes (2017). [Open Access](http://www.tandfonline.com/doi/full/10.1080/19490976.2017.1356979) 
-
 For a full and up-to-date list of publications go to [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Rühlemann%20MC%5BAuthor%5D&cauthor=true&cauthor_uid=28816579), [Google Scholar](https://scholar.google.de/citations?user=nT-lX-8AAAAJ) or visit my [ResearchGate profile](http://www.researchgate.net/profile/Malte_Ruehlemann).
 
 ### [](#GAI)Grants, Awards, Invitations
+
+* 2020 - KLS PostDoc Award (6,000 €).
+
+* 2020 - CRC1182 [Young Investigator Award](https://www.metaorganism-research.com/news/yird-2020-video-now-available/) (15,000 €).
+
 * 2016 & 2018 - Presenter @ [Berchtesgaden Microbiome Science Days](www.bmsd.science).
 
 *	2017 - ZMB Young Scientist Grant for PhD Students (10,000 €).
 
 *	2017 - Selected abstract for a talk at the Life Science Nord student conference, Kiel.
 
+### [](#Collab)Collaborations
+
+* Epidemiology of highly pathogenic microorganisms - The Leendertz Lab @ [RKI](https://www.leendertz-lab.org/) [1](https://www.biorxiv.org/content/10.1101/2020.04.06.011684v1)
+
+* DFG Clinical Research Unit 306: Primary Sclerosing Cholangitis @ [UKE Hamburg](https://www.uke.de/kliniken-institute/kliniken/i.-medizinische-klinik-und-poliklinik/forschung/kfo306.html) [1](https://pubmed.ncbi.nlm.nih.gov/31250469/)
+
+* Genomics and Metagenomics in Inflammatory Disorders @ [Oslo University Hospital](https://ous-research.no/hov/) [1](https://www.sciencedirect.com/science/article/pii/S0016508520356225?via%3Dihub) [2](https://pubmed.ncbi.nlm.nih.gov/31250469/)
+
+* University Medicine Greifswald [1](https://www.sciencedirect.com/science/article/abs/pii/S0016508518352041) [2](https://www.nature.com/articles/s41588-020-00747-1)
+
+* Group 'Evolutionary Genomics' @ [MPI Plön](http://web.evolbio.mpg.de/evolgenomics/) [1](https://www.nature.com/articles/s41588-020-00747-1) [2]( https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0743-1)
