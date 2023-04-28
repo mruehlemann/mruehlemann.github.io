@@ -7,7 +7,7 @@ I am a trained [molecular biologist](http://www.medlife.uni-kiel.de/en?set_langu
 Since 2023 I am a PostDoc in the newly established [Groussin Poyet Lab](https://twitter.com/MMmicrobiomeLab) - [Genomics and Functions of Host-Microbe Systems](https://www.ikmb.uni-kiel.de/research/junior-research-groups/genomics-and-functions-host-microbiome-systems) @ IKMB, Kiel, the founders of the [Global Microbiome Conservancy](https://microbiomeconservancy.org/).
 
  I finished my PhD in the lab of
-[Prof. Dr. Andre Franke](http://www.ikmb.uni-kiel.de/research/genetics-bioinformatics) at the [Institue of Clinical Molecular Biology (IKMB)](http://www.ikmb.uni-kiel.de) in 2020 and stayed as PostDoc until end of 2022, with a brief 6-months guest stay at the lab of [Jeroen Raes @ VIB / KU Leuven](https://raeslab.org/). 
+[Andre Franke](http://www.ikmb.uni-kiel.de/research/genetics-bioinformatics) at the [Institue of Clinical Molecular Biology (IKMB)](http://www.ikmb.uni-kiel.de) in 2020 and stayed as PostDoc until end of 2022, with a brief 6-months guest stay at the lab of [Jeroen Raes @ VIB / KU Leuven](https://raeslab.org/). 
 
 In addition, I am a guest scientist at the Insitute for Medical Microbiology and Hospital Epidemiology in the [group of Marius Vital]( https://www.mhh.de/en/institute-for-medical-mikcobiology-and-hospital-epidemiology/work-group-vital) @ Hannover Medical School.
 
@@ -23,7 +23,7 @@ I have given courses and workshops on different aspects of microbiome analysis [
 
 * _Comparative metagenomics reveals host-specific functional adaptation of intestinal microbiota across hominids_ - **Rühlemann** _et al._, BioRXiv (2023). [Preprint](https://www.biorxiv.org/content/10.1101/2023.03.01.530589v1)
 
-* _Host genetic factors related to innate immunity, environmental sensing and cellular functions are associated with human skin microbiota_ - Moitiho-Silva, ..., **Rühlemann**, Nature Communications (2022). [Full Text](https://www.nature.com/articles/s41467-022-33906-5) (Senior Author)
+* _Host genetic factors related to innate immunity, environmental sensing and cellular functions are associated with human skin microbiota_ - Moitinho-Silva, ..., **Rühlemann**, Nature Communications (2022). [Full Text](https://www.nature.com/articles/s41467-022-33906-5) (Senior Author)
 
 * _MAGScoT: a fast, lightweight and accurate bin-refinement tool_ - **Rühlemann** _et al._, Bioinformatics (2022). [Full Text](https://academic.oup.com/bioinformatics/article/38/24/5430/6764585)
 
