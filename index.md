@@ -2,9 +2,14 @@
 layout: default
 ---
 
-I am a trained [molecular biologist](http://www.medlife.uni-kiel.de/en?set_language=en) turned to data analyst. I'm working in the lab of
-[Prof. Dr. Andre Franke](http://www.ikmb.uni-kiel.de/research/genetics-bioinformatics) at the [Institue of Clinical Molecular Biology](http://www.ikmb.uni-kiel.de).
-We are located at the [Center of Molecular Biosciences](http://www.zmb.uni-kiel.de) in Kiel.
+I am a trained [molecular biologist](http://www.medlife.uni-kiel.de/en?set_language=en) turned to data analyst.
+
+Since 2023 I am a PostDoc in the newly established [Groussin Poyet Lab](https://twitter.com/MMmicrobiomeLab) - [Genomics and Functions of Host-Microbe Systems](https://www.ikmb.uni-kiel.de/research/junior-research-groups/genomics-and-functions-host-microbiome-systems) @ IKMB, Kiel, the founders of the [Global Microbiome Conservancy](https://microbiomeconservancy.org/).
+
+ I finished my PhD in the lab of
+[Prof. Dr. Andre Franke](http://www.ikmb.uni-kiel.de/research/genetics-bioinformatics) at the [Institue of Clinical Molecular Biology (IKMB)](http://www.ikmb.uni-kiel.de) in 2020 and stayed as PostDoc until end of 2022, with a brief 6-months guest stay at the lab of [Jeroen Raes @ VIB / KU Leuven](https://raeslab.org/). 
+
+In addition, I am a guest scientist at the Insitute for Medical Microbiology and Hospital Epidemiology in the [group of Marius Vital]( https://www.mhh.de/en/institute-for-medical-mikcobiology-and-hospital-epidemiology/work-group-vital) @ Hannover Medical School.
 
 ### [](#RI)Reasearch Interest
 
@@ -16,7 +21,17 @@ I have given courses and workshops on different aspects of microbiome analysis [
 
 ### [](#SP)Selected Publications
 
+* _Comparative metagenomics reveals host-specific functional adaptation of intestinal microbiota across hominids_ - **Rühlemann** _et al._, BioRXiv (2023). [Preprint](https://www.biorxiv.org/content/10.1101/2023.03.01.530589v1)
+
+* _Host genetic factors related to innate immunity, environmental sensing and cellular functions are associated with human skin microbiota_ - Moitiho-Silva, ..., **Rühlemann**, Nature Communications (2022). [Full Text](https://www.nature.com/articles/s41467-022-33906-5) (Senior Author)
+
+* _MAGScoT: a fast, lightweight and accurate bin-refinement tool_ - **Rühlemann** _et al._, Bioinformatics (2022). [Full Text](https://academic.oup.com/bioinformatics/article/38/24/5430/6764585)
+
 * _Genome-wide association study in 8,956 German individuals identifies influence of ABO histo-blood groups on gut microbiome_ - **Rühlemann** _et al._, Nature Genetics (2021). [Full Text](https://www.nature.com/articles/s41588-020-00747-1)
+
+* _Primate phageomes are structured by superhost phylogeny and environment_ - Gogarten, **Rühlemann** _et al._, PNAS (2021). [Full Text](https://www.pnas.org/doi/full/10.1073/pnas.2013535118)
+
+* _Genomewide association study of severe Covid-19 with respiratory failure_ - **The Severe Covid-19 GWAS Group**, New England Journal of Medicine (2020). [Full Text](https://www.nejm.org/doi/full/10.1056/nejmoa2020283) (Contributor to the Severe Covid-19 GWAS Group)
 
 * _Consistent Alterations in Faecal Microbiomes of Patients With Primary Sclerosing Cholangitis Independent of Associated Colitis_ - **Rühlemann** _et al._, AP&T (2019). [Full Text](https://pubmed.ncbi.nlm.nih.gov/31250469/)
 
@@ -30,11 +45,15 @@ For a full and up-to-date list of publications go to [PubMed](https://www.ncbi.n
 
 ### [](#GAI)Grants, Awards, Invitations
 
-* 2020 - KLS PostDoc Award (6,000 €).
+* 2022 - Speaker @ [Darwin Day](https://www.kec.uni-kiel.de/outreach/Darwintag.php) [Youtube (German)](https://www.youtube.com/watch?v=PKiWWTPpHB0) 
+
+* 2021 - DFG Sequencing Cost Grant: [Identification of microbiome-host genetics associations using full-length 16S rRNA gene sequencing](https://gepris.dfg.de/gepris/projekt/458912286?language=en)
+
+* 2021 - SymbNET Kick-Off Meeting [Youtube](https://www.youtube.com/watch?v=MgrwSNdehLw)
+
+* 2020 - [KLS PostDoc Award](https://www.uni-kiel.de/de/detailansicht/news/014-kls-awards-20) (6,000 €).
 
 * 2020 - CRC1182 [Young Investigator Award](https://www.metaorganism-research.com/news/yird-2020-video-now-available/) (15,000 €).
-
-* 2016 & 2018 - Presenter @ [Berchtesgaden Microbiome Science Days](www.bmsd.science).
 
 *	2017 - ZMB Young Scientist Grant for PhD Students (10,000 €).
 
@@ -42,7 +61,9 @@ For a full and up-to-date list of publications go to [PubMed](https://www.ncbi.n
 
 ### [](#Collab)Collaborations
 
-* Epidemiology of highly pathogenic microorganisms - The Leendertz Lab @ [RKI](https://www.leendertz-lab.org/) [1](https://www.biorxiv.org/content/10.1101/2020.04.06.011684v1)
+* Part of the International MiBioGen Consortium, investigating microbiome-host genetics associations: [1](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0479-3) [2](https://www.nature.com/articles/s41588-020-00763-1)
+
+* Epidemiology of highly pathogenic microorganisms - The Leendertz Lab @ [RKI](https://www.leendertz-lab.org/) [1](https://www.pnas.org/doi/full/10.1073/pnas.2013535118) [2](https://www.biorxiv.org/content/10.1101/2023.03.01.530589v1)
 
 * DFG Clinical Research Unit 306: Primary Sclerosing Cholangitis @ [UKE Hamburg](https://www.uke.de/kliniken-institute/kliniken/i.-medizinische-klinik-und-poliklinik/forschung/kfo306.html) [1](https://pubmed.ncbi.nlm.nih.gov/31250469/)
 
@@ -51,3 +72,5 @@ For a full and up-to-date list of publications go to [PubMed](https://www.ncbi.n
 * University Medicine Greifswald [1](https://www.sciencedirect.com/science/article/abs/pii/S0016508518352041) [2](https://www.nature.com/articles/s41588-020-00747-1)
 
 * Group 'Evolutionary Genomics' @ [MPI Plön](http://web.evolbio.mpg.de/evolgenomics/) [1](https://www.nature.com/articles/s41588-020-00747-1) [2]( https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0743-1)
+
+* Raes Lab  @ [VIB / KU Leuven](https://raeslab.org/). [1](https://www.nature.com/articles/s41564-020-0743-8)
