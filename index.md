@@ -4,7 +4,7 @@ layout: default
 
 I am a trained [molecular biologist](http://www.medlife.uni-kiel.de/en?set_language=en) turned to data analyst.
 
-Since 2023 I am a PostDoc in the newly established [Groussin Poyet Lab](https://twitter.com/MMmicrobiomeLab) - [Genomics and Functions of Host-Microbe Systems](https://www.ikmb.uni-kiel.de/research/junior-research-groups/genomics-and-functions-host-microbiome-systems) @ IKMB, Kiel, the founders of the [Global Microbiome Conservancy](https://microbiomeconservancy.org/).
+Since 2023 I am a PostDoc in the newly established [Groussin Poyet Lab - Host microbiome systems in health & disease](https://mmmicrobiomelab.org/) @ IKMB, Kiel, the founders of the [Global Microbiome Conservancy](https://microbiomeconservancy.org/).
 
  I finished my PhD in the lab of
 [Andre Franke](http://www.ikmb.uni-kiel.de/research/genetics-bioinformatics) at the [Institue of Clinical Molecular Biology (IKMB)](http://www.ikmb.uni-kiel.de) in 2020 and stayed as PostDoc until end of 2022, with a brief 6-months guest stay at the lab of [Jeroen Raes @ VIB / KU Leuven](https://raeslab.org/). 
